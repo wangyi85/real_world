@@ -2,7 +2,7 @@
   "name": "realword",
   "version": "1.0.1-next.0",
   "private": true,
-  "license": "MIT",
+  "license": "",
   "type": "module",
   "scripts": {
     "dev": "vite dev",
